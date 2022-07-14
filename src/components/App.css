@@ -1,0 +1,33 @@
+/* Styles go here */
+body {
+        font-family: Roboto, Helvetica, Arial, sans-serif;
+        background-image: linear-gradient(to bottom right,#141414, #424242);
+      }
+.bg-myBlue{
+        background-color: #A7C7E7;
+}
+
+.bg-pallet1{
+        background-color: #2874A6;
+}
+
+.bg-pallet2{
+        background-color: #242424;
+}
+
+.bg-pallet3{
+        background-color: #181818;
+}
+
+a{
+        color: #66FCF1;
+}
+
+.bg-grad{
+        background-image: linear-gradient(to bottom right,#222222, #313131);
+}
+
+input{
+        color: rgb(255, 253, 253);
+}
+
